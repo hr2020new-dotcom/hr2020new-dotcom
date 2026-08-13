@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mohamed Mustafa 👋
 
-<!--
-**hr2020new-dotcom/hr2020new-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a programmer currently learning and improving my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+* 🧠 Object-Oriented Programming (OOP)
+* 🌐 HTML
+* 🎨 CSS
+
+### Object-Oriented Programming
+
+I have a solid understanding of Object-Oriented Programming concepts, including:
+
+* Classes & Objects
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+* Constructors & Destructors
+* Static Members
+* Templates
+
+I'm continuously learning and building projects to improve my programming skills.
